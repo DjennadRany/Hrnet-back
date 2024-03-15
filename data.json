@@ -1,0 +1,37 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateOfStart": "2023-01-15",
+      "department": "Paris",
+      "birthdate": "1990-05-25",
+      "street": "123 Rue de la Liberté",
+      "city": "Paris",
+      "town": "Île-de-France",
+      "zipcode": 75000
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Smith",
+      "dateOfStart": "2022-11-10",
+      "department": "Alpes-Maritimes",
+      "birthdate": "1985-08-12",
+      "street": "456 Avenue des Palmiers",
+      "city": "Nice",
+      "town": "Provence-Alpes-Côte d'Azur",
+      "zipcode": 75000
+
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Johnson",
+      "dateOfStart": "2024-02-20",
+      "department": "Rhône",
+      "birthdate": "1993-04-30",
+      "street": "789 Boulevard des Roses",
+      "city": "Lyon",
+      "town": "Auvergne-Rhône-Alpes",
+      "zipcode": 69000
+    }
+  ]
+  
